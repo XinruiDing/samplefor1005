@@ -1,0 +1,134 @@
+html {
+  background-color: black;
+}
+
+h1 {
+  font-size: 60px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+  color: white;
+}
+
+iframe {
+  display: block;
+  margin: 0 auto;
+}
+
+
+h2 {
+  margin: 0 auto;
+  margin-top: 50px;
+  padding: 0 auto;
+  text-align: center;
+  color: white;
+}
+
+main {
+  width: 60%;
+  margin: 0 auto;
+  margin-bottom: 0;
+  padding: 20px;
+}
+
+main img {
+  width: auto;
+  height: auto;
+}
+
+.separator {
+  border-bottom: 1px solid white;
+  width: 565px;
+  text-align: center;
+}
+
+article {
+  text-align: center;
+  margin: 30px auto;
+}
+
+section {
+  text-align: center;
+  width: 60%;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+
+.firstpart {
+  margin: 0 auto;
+  padding: 20px 20px 20px 20px;
+  text-align: center;
+}
+
+
+
+p {
+  margin: 0 auto;
+  padding: 20px;
+  font-size: 20px;
+  color: white;
+}
+
+ul {
+    color: white;
+    font-size: 18px;
+}
+
+ul li {
+  margin-bottom: 20px;
+}
+
+
+.lastpart {
+  margin: 20px auto;
+  padding: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.lastpart img {
+  max-width: 45%;
+  max-height: 40%;
+  width: auto;
+  height: auto;
+  margin: 5px 5px;
+}
+
+.introduction {
+  text-align: left;
+  margin: 0 auto;
+  padding: 10px;
+  font-size: 14px;
+}
+
+.greytext {
+  color: grey;
+}
+
+aside {
+  text-align: center;
+  margin: 50px auto;
+  color: white;
+}
+
+
+a[href="#top"] {
+  display: block;
+  text-align: center;
+  font-size: 15px;
+  margin: 10px auto;
+  color: white;
+}
+
+#italicpart {
+  font-style: italic;
+  color: grey;
+}
+
+#downfoot {
+  font-size: 15px;
+  text-align: center;
+}
