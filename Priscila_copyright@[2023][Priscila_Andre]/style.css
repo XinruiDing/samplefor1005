@@ -1,0 +1,28 @@
+/* Body styles */
+body {
+    background-color: black;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+
+
+
+/* Header 1 styles */
+h1 {
+    color: white;
+    margin-left: 20px;
+    font-size: 40px;
+}
+
+/* Header 3 styles */
+h3 {
+    font-size: 20px;
+}
+
+/* Paragraph styles */
+p {
+    margin: 40px;
+    font-size: 16px;
+}

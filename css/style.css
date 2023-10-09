@@ -79,6 +79,10 @@ ul li {
   margin-bottom: 20px;
 }
 
+a:link {
+    color: white;
+}
+
 
 .lastpart {
   margin: 20px auto;
@@ -111,7 +115,7 @@ ul li {
 aside {
   text-align: center;
   margin: 50px auto;
-  color: white;
+  color: yellow;
 }
 
 
