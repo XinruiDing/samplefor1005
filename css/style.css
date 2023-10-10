@@ -112,6 +112,10 @@ a:link {
   color: grey;
 }
 
+.whitext {
+  color: white;
+}
+
 aside {
   text-align: center;
   margin: 50px auto;
